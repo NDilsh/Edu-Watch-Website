@@ -216,7 +216,7 @@ html {
      object-position: center;
   -webkit-clip-path: circle(20% at 65% 75%);
           clip-path: circle(20% at 65% 75%);
-  background-color: rgba(0, 184, 165, 0.25);
+  background-color: #3633cd6c;
   mix-blend-mode: hard-light;
   -webkit-animation: 0.5s ease-out 0s 1 growCircle;
           animation: 0.5s ease-out 0s 1 growCircle;
